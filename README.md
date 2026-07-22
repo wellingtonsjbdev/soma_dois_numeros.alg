@@ -1,2 +1,3 @@
-# soma_dois_numeros.alg
-Adicionado algoritmo para somar dois números — exercício de lógica.
+## Algoritmo: Soma de Dois Números
+Este programa solicita dois números inteiros e exibe a soma deles.
+Desenvolvido em Visualg 3.0.7.0.
